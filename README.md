@@ -21,7 +21,7 @@ Let's have a glance at Magar Alphabet and Pronunciation.
 * A diacritic (also diacritical mark, diacritical point, diacritical sign, or accent) is a glyph added to a letter or to a basic glyph. 
 * Vowels and diacritics in Magar Akkha:
 
-![Vowels-n-Diacritics](magar/img/Vowels-n-diacritics.png)
+![Vowels-n-Diacritics](magar/img/Vowels-and-diacritics.png)
 
 ## Consonants
 * A consonant is a speech sound that is not a vowel.
